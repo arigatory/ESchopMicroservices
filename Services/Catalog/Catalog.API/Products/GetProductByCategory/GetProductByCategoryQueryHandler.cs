@@ -1,6 +1,3 @@
-
-using Catalog.API.Exceptions;
-
 namespace Catalog.API.Products.GetProductByCategory;
 
 
